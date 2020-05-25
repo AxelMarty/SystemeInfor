@@ -1,0 +1,10 @@
+AR ual behavioral "D:/Bureau/Cours INSA/SystemeInfor/processeur.vhd" sub00/vhpl03 1590430866
+EN bancmem NULL "D:/Bureau/Cours INSA/SystemeInfor/BancMemData.vhd" sub00/vhpl04 1590430867
+EN ual NULL "D:/Bureau/Cours INSA/SystemeInfor/processeur.vhd" sub00/vhpl02 1590430865
+AR bancreg behavioral "D:/Bureau/Cours INSA/SystemeInfor/BancReg.vhd" sub00/vhpl01 1590430864
+AR pipeline behavioral "D:/Bureau/Cours INSA/SystemeInfor/pipeline.vhd" sub00/vhpl07 1590430872
+AR bancmeminstruc behavioral "D:/Bureau/Cours INSA/SystemeInfor/BancMemInstruc.vhd" sub00/vhpl09 1590430870
+EN bancmeminstruc NULL "D:/Bureau/Cours INSA/SystemeInfor/BancMemInstruc.vhd" sub00/vhpl08 1590430869
+EN bancreg NULL "D:/Bureau/Cours INSA/SystemeInfor/BancReg.vhd" sub00/vhpl00 1590430863
+EN pipeline NULL "D:/Bureau/Cours INSA/SystemeInfor/pipeline.vhd" sub00/vhpl06 1590430871
+AR bancmem behavioral "D:/Bureau/Cours INSA/SystemeInfor/BancMemData.vhd" sub00/vhpl05 1590430868

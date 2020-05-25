@@ -1,0 +1,33 @@
+V3 19
+FL "D:/Bureau/Cours INSA/SystemeInfor/BancMemData.vhd" 2020/05/21.11:14:27 O.87xd
+EN work/BancMem 1590430867 FL "D:/Bureau/Cours INSA/SystemeInfor/BancMemData.vhd" \
+      PB ieee/std_logic_1164 1325952872 PB ieee/STD_LOGIC_UNSIGNED 1325952875 \
+      PB ieee/std_logic_arith 1325952873
+AR work/BancMem/Behavioral 1590430868 \
+      FL "D:/Bureau/Cours INSA/SystemeInfor/BancMemData.vhd" EN work/BancMem 1590430867
+FL "D:/Bureau/Cours INSA/SystemeInfor/BancMemInstruc.vhd" 2020/05/21.14:07:46 O.87xd
+EN work/BancMemInstruc 1590430869 \
+      FL "D:/Bureau/Cours INSA/SystemeInfor/BancMemInstruc.vhd" \
+      PB ieee/std_logic_1164 1325952872 PB ieee/STD_LOGIC_UNSIGNED 1325952875 \
+      PB ieee/std_logic_arith 1325952873
+AR work/BancMemInstruc/Behavioral 1590430870 \
+      FL "D:/Bureau/Cours INSA/SystemeInfor/BancMemInstruc.vhd" \
+      EN work/BancMemInstruc 1590430869
+FL "D:/Bureau/Cours INSA/SystemeInfor/BancReg.vhd" 2020/05/13.11:19:02 O.87xd
+EN work/BancReg 1590430863 FL "D:/Bureau/Cours INSA/SystemeInfor/BancReg.vhd" \
+      PB ieee/std_logic_1164 1325952872 PB ieee/STD_LOGIC_UNSIGNED 1325952875 \
+      PB ieee/std_logic_arith 1325952873
+AR work/BancReg/Behavioral 1590430864 \
+      FL "D:/Bureau/Cours INSA/SystemeInfor/BancReg.vhd" EN work/BancReg 1590430863
+FL "D:/Bureau/Cours INSA/SystemeInfor/pipeline.vhd" 2020/05/25.20:19:11 O.87xd
+EN work/pipeline 1590430871 FL "D:/Bureau/Cours INSA/SystemeInfor/pipeline.vhd" \
+      PB ieee/std_logic_1164 1325952872
+AR work/pipeline/Behavioral 1590430872 \
+      FL "D:/Bureau/Cours INSA/SystemeInfor/pipeline.vhd" EN work/pipeline 1590430871 \
+      CP BancReg CP UAL CP BancMem CP BancMemInstruc
+FL "D:/Bureau/Cours INSA/SystemeInfor/processeur.vhd" 2020/04/22.17:46:08 O.87xd
+EN work/ual 1590430865 FL "D:/Bureau/Cours INSA/SystemeInfor/processeur.vhd" \
+      PB ieee/std_logic_1164 1325952872 PB ieee/std_logic_arith 1325952873 \
+      PB ieee/STD_LOGIC_UNSIGNED 1325952875 PB ieee/NUMERIC_STD 1325952877
+AR work/ual/Behavioral 1590430866 \
+      FL "D:/Bureau/Cours INSA/SystemeInfor/processeur.vhd" EN work/ual 1590430865
